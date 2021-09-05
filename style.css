@@ -17,6 +17,12 @@
   height: 300px;
 }
 
+#side {
+  border: 1px solid black;
+  width: 200px;
+  height: 300px;
+}
+
 #footer {
   clear: both;
   border: 1px solid black;
