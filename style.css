@@ -55,3 +55,14 @@ th {
 th {
 	background: silver;
 }
+
+.login {
+	text-align: center;
+	border: 1px solid black;
+	margin: 3px;
+	padding: 3px;
+}
+
+.login input {
+	margin-top: 5px;
+}
